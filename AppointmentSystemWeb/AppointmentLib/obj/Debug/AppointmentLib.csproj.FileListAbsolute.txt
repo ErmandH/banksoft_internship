@@ -1,0 +1,10 @@
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointSystemWEB\AppointmentLib\bin\Debug\AppointmentLib.dll
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointSystemWEB\AppointmentLib\bin\Debug\AppointmentLib.pdb
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointSystemWEB\AppointmentLib\obj\Debug\AppointmentLib.dll
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointSystemWEB\AppointmentLib\obj\Debug\AppointmentLib.pdb
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointSystemWEB\AppointmentLib\obj\Debug\AppointmentLib.csprojResolveAssemblyReference.cache
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemHashWeb\AppointmentLib\bin\Debug\AppointmentLib.dll
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemHashWeb\AppointmentLib\bin\Debug\AppointmentLib.pdb
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemHashWeb\AppointmentLib\obj\Debug\AppointmentLib.csprojResolveAssemblyReference.cache
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemHashWeb\AppointmentLib\obj\Debug\AppointmentLib.dll
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemHashWeb\AppointmentLib\obj\Debug\AppointmentLib.pdb
