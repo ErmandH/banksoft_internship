@@ -1,0 +1,12 @@
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemSP\AppointmentSystemSP\bin\Debug\AppointmentSystemDemo.exe.config
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemSP\AppointmentSystemSP\obj\Debug\AppointmentSystemDemo.exe
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemSP\AppointmentSystemSP\obj\Debug\AppointmentSystemDemo.pdb
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemSP\AppointmentSystemSP\bin\Debug\AppointmentSystemDemo.exe
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemSP\AppointmentSystemSP\bin\Debug\AppointmentSystemDemo.pdb
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemSP\AppointmentSystemSP\obj\Debug\AppointmentSystemSP.csprojResolveAssemblyReference.cache
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemSP\AppointmentSystemSP\obj\Debug\AppointmentSystemDemo.AppointmentForm.resources
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemSP\AppointmentSystemSP\obj\Debug\AppointmentSystemDemo.DoctorForm.resources
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemSP\AppointmentSystemSP\obj\Debug\AppointmentSystemDemo.EntryForm.resources
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemSP\AppointmentSystemSP\obj\Debug\AppointmentSystemDemo.PatientForm.resources
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemSP\AppointmentSystemSP\obj\Debug\AppointmentSystemDemo.Properties.Resources.resources
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemSP\AppointmentSystemSP\obj\Debug\AppointmentSystemSP.csproj.GenerateResource.Cache
