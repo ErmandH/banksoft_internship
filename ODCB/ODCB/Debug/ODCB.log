@@ -1,0 +1,30 @@
+﻿Build started 16/07/2024 10:45:30.
+     1>Project "C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\ODCB\ODCB\ODCB.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp dboperations.cpp
+         dboperations.cpp
+     1>c:\users\stajyer\documents\visual studio 2012\projects\odcb\odcb\dboperations.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+         Source.cpp
+     1>c:\users\stajyer\documents\visual studio 2012\projects\odcb\odcb\source.cpp(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\stajyer\documents\visual studio 2012\projects\odcb\odcb\source.cpp(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\stajyer\documents\visual studio 2012\projects\odcb\odcb\source.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\stajyer\documents\visual studio 2012\projects\odcb\odcb\source.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\stajyer\documents\visual studio 2012\projects\odcb\odcb\source.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\stajyer\documents\visual studio 2012\projects\odcb\odcb\source.cpp(11): warning C4101: 'ret' : unreferenced local variable
+         Generating Code...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\ODCB\Debug\ODCB.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\ODCB\Debug\ODCB.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\ODCB\Debug\ODCB.lib" /MACHINE:X86 Debug\dboperations.obj
+         Debug\Sample.obj
+         Debug\Source.obj
+         ODCB.vcxproj -> C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\ODCB\Debug\ODCB.exe
+     1>Done Building Project "C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\ODCB\ODCB\ODCB.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.87
