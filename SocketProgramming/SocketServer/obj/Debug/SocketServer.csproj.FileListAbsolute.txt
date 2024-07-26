@@ -1,0 +1,6 @@
+c:\users\stajyer\documents\visual studio 2012\Projects\SocketProgramming\SocketServer\bin\Debug\SocketServer.exe.config
+c:\users\stajyer\documents\visual studio 2012\Projects\SocketProgramming\SocketServer\bin\Debug\SocketServer.exe
+c:\users\stajyer\documents\visual studio 2012\Projects\SocketProgramming\SocketServer\bin\Debug\SocketServer.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\SocketProgramming\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+c:\users\stajyer\documents\visual studio 2012\Projects\SocketProgramming\SocketServer\obj\Debug\SocketServer.exe
+c:\users\stajyer\documents\visual studio 2012\Projects\SocketProgramming\SocketServer\obj\Debug\SocketServer.pdb
