@@ -1,0 +1,4 @@
+LIBRARY "MYLIBRARY"
+
+EXPORTS
+	HelloWorld @1
