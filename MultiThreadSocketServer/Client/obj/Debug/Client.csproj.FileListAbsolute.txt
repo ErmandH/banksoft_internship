@@ -1,0 +1,8 @@
+c:\users\stajyer\documents\visual studio 2012\Projects\MultiThreadSocketServer\Client\bin\Debug\Client.exe.config
+c:\users\stajyer\documents\visual studio 2012\Projects\MultiThreadSocketServer\Client\bin\Debug\Client.exe
+c:\users\stajyer\documents\visual studio 2012\Projects\MultiThreadSocketServer\Client\bin\Debug\Client.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\MultiThreadSocketServer\Client\bin\Debug\Data.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\MultiThreadSocketServer\Client\bin\Debug\Data.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\MultiThreadSocketServer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\stajyer\documents\visual studio 2012\Projects\MultiThreadSocketServer\Client\obj\Debug\Client.exe
+c:\users\stajyer\documents\visual studio 2012\Projects\MultiThreadSocketServer\Client\obj\Debug\Client.pdb

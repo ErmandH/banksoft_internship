@@ -1,0 +1,5 @@
+c:\users\stajyer\documents\visual studio 2012\Projects\MultiThreadSocketServer\Data\bin\Debug\Data.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\MultiThreadSocketServer\Data\bin\Debug\Data.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\MultiThreadSocketServer\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\users\stajyer\documents\visual studio 2012\Projects\MultiThreadSocketServer\Data\obj\Debug\Data.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\MultiThreadSocketServer\Data\obj\Debug\Data.pdb
