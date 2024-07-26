@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<queries>
+
+    <query name="SelectWebServiceCallParam" type="sp" executeAs="table">kksp_SelectWebServiceCallParam</query>
+    <query name="GetScrumConfigByTeam" type="sp" executeAs="table">scsp_GetScrumConfigByTeam</query>
+    <query name="GetScrumsByDate" type="sp" executeAs="table">scsp_GetScrumsByDate</query>
+
+    <query name="InsertScrum" type="sp" executeAs="nonquery">scsp_InsertScrum</query>
+    <query name="DeleteScrum" type="sp" executeAs="nonquery">scsp_DeleteScrum</query>
+</queries>

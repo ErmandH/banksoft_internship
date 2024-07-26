@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrumProcessTask", "ScrumProcessTask\ScrumProcessTask.csproj", "{FCCDB05B-8DED-41F5-B79E-F12C71F99C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrumProcessTest", "ScrumProcessTest\ScrumProcessTest.csproj", "{5E720593-465D-4688-A8F1-D1B13D6754BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCDB05B-8DED-41F5-B79E-F12C71F99C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCDB05B-8DED-41F5-B79E-F12C71F99C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCDB05B-8DED-41F5-B79E-F12C71F99C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCDB05B-8DED-41F5-B79E-F12C71F99C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E720593-465D-4688-A8F1-D1B13D6754BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E720593-465D-4688-A8F1-D1B13D6754BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E720593-465D-4688-A8F1-D1B13D6754BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E720593-465D-4688-A8F1-D1B13D6754BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

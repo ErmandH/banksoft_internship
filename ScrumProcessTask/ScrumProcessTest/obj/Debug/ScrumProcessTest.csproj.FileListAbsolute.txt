@@ -1,0 +1,10 @@
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumProcessTask\ScrumProcessTest\bin\Debug\ScrumProcessTest.exe.config
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumProcessTask\ScrumProcessTest\obj\Debug\ScrumProcessTest.csprojResolveAssemblyReference.cache
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumProcessTask\ScrumProcessTest\bin\Debug\ScrumProcessTest.exe
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumProcessTask\ScrumProcessTest\bin\Debug\ScrumProcessTest.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumProcessTask\ScrumProcessTest\bin\Debug\Banksoft.Common.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumProcessTask\ScrumProcessTest\bin\Debug\Banksoft.TaskManager.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumProcessTask\ScrumProcessTest\bin\Debug\ScrumProcessTask.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumProcessTask\ScrumProcessTest\bin\Debug\ScrumProcessTask.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumProcessTask\ScrumProcessTest\obj\Debug\ScrumProcessTest.exe
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumProcessTask\ScrumProcessTest\obj\Debug\ScrumProcessTest.pdb
