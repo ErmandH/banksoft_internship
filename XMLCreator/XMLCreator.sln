@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLCreator", "XMLCreator\XMLCreator.csproj", "{9DCB0C5C-489D-4EC2-B197-414277804D3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlShared", "XmlShared\XmlShared.csproj", "{EC534A46-4830-4E61-8272-84B31B2C2730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlToTable", "XmlToTable\XmlToTable.csproj", "{C38648BD-548E-4ED4-8329-5260EFF57969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DCB0C5C-489D-4EC2-B197-414277804D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCB0C5C-489D-4EC2-B197-414277804D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCB0C5C-489D-4EC2-B197-414277804D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCB0C5C-489D-4EC2-B197-414277804D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC534A46-4830-4E61-8272-84B31B2C2730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC534A46-4830-4E61-8272-84B31B2C2730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC534A46-4830-4E61-8272-84B31B2C2730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC534A46-4830-4E61-8272-84B31B2C2730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38648BD-548E-4ED4-8329-5260EFF57969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38648BD-548E-4ED4-8329-5260EFF57969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38648BD-548E-4ED4-8329-5260EFF57969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38648BD-548E-4ED4-8329-5260EFF57969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

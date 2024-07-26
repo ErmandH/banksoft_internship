@@ -1,0 +1,5 @@
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XmlShared\bin\Debug\XmlShared.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XmlShared\bin\Debug\XmlShared.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XmlShared\obj\Debug\XmlShared.csprojResolveAssemblyReference.cache
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XmlShared\obj\Debug\XmlShared.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XmlShared\obj\Debug\XmlShared.pdb

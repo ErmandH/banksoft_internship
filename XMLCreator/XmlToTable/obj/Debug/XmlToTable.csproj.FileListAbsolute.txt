@@ -1,0 +1,8 @@
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XmlToTable\bin\Debug\XmlToTable.exe.config
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XmlToTable\bin\Debug\XmlToTable.exe
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XmlToTable\bin\Debug\XmlToTable.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XmlToTable\bin\Debug\XmlShared.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XmlToTable\bin\Debug\XmlShared.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XmlToTable\obj\Debug\XmlToTable.exe
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XmlToTable\obj\Debug\XmlToTable.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XmlToTable\obj\Debug\XmlToTable.csprojResolveAssemblyReference.cache

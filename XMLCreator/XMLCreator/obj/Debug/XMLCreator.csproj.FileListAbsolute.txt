@@ -1,0 +1,8 @@
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XMLCreator\bin\Debug\XMLCreator.exe.config
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XMLCreator\bin\Debug\XMLCreator.exe
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XMLCreator\bin\Debug\XMLCreator.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XMLCreator\obj\Debug\XMLCreator.csprojResolveAssemblyReference.cache
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XMLCreator\obj\Debug\XMLCreator.exe
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XMLCreator\obj\Debug\XMLCreator.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XMLCreator\bin\Debug\XmlShared.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\XMLCreator\XMLCreator\bin\Debug\XmlShared.pdb

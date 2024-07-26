@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <sp_GetAllDoctors>
+    <DoctorID>1</DoctorID>
+    <FirstName>Muhammed</FirstName>
+    <LastName>Şengezer</LastName>
+    <PhoneNumber>345345</PhoneNumber>
+    <Email>mail@test.com</Email>
+    <Branch>Nöroloji</Branch>
+  </sp_GetAllDoctors>
+  <sp_GetAllDoctors>
+    <DoctorID>2</DoctorID>
+    <FirstName>Ege</FirstName>
+    <LastName>Arseven</LastName>
+    <PhoneNumber>53534534</PhoneNumber>
+    <Email>deneme@deneme.com</Email>
+    <Branch>Kardiyolog</Branch>
+  </sp_GetAllDoctors>
+  <sp_GetAllDoctors>
+    <DoctorID>5</DoctorID>
+    <FirstName>Aslıhan</FirstName>
+    <LastName>Gunduz</LastName>
+    <PhoneNumber>12323547</PhoneNumber>
+    <Email>mail@mail.com</Email>
+    <Branch>Ortodonti</Branch>
+  </sp_GetAllDoctors>
+  <sp_GetAllDoctors>
+    <DoctorID>10</DoctorID>
+    <FirstName>Okan</FirstName>
+    <LastName>Buruk</LastName>
+    <PhoneNumber>534534534</PhoneNumber>
+    <Email>ermand@gmail.com</Email>
+    <Branch>Dahiliye</Branch>
+  </sp_GetAllDoctors>
+</DocumentElement>
