@@ -1,0 +1,7 @@
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemWebService\AppointmentSystemWebServices\bin\AppointmentSystemWebServices.dll
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemWebService\AppointmentSystemWebServices\bin\AppointmentSystemWebServices.pdb
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemWebService\AppointmentSystemWebServices\bin\AppointmentLib.dll
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemWebService\AppointmentSystemWebServices\bin\AppointmentLib.pdb
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemWebService\AppointmentSystemWebServices\obj\Debug\AppointmentSystemWebServices.csprojResolveAssemblyReference.cache
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemWebService\AppointmentSystemWebServices\obj\Debug\AppointmentSystemWebServices.dll
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\AppointmentSystemWebService\AppointmentSystemWebServices\obj\Debug\AppointmentSystemWebServices.pdb
