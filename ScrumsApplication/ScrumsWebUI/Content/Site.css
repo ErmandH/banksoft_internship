@@ -1,0 +1,17 @@
+﻿* {
+    text-decoration:none!important;
+}
+
+
+/* readonly olanların rengini değiştirme */
+.handsontable .htDimmed {
+    color: #111!important;
+}
+
+body {
+ background-color:#eeeeee!important;
+}
+
+.card {
+    border: 0!important;
+}
