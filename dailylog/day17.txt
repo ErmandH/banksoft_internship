@@ -1,0 +1,1 @@
+Programýn WEB arayüzüne ScrumConfigs.aspx sayfasý ekledim ve bu sayfadaki tabloya Handsontable üzerinden ehScrumConfigs tablosunu baðladým. Daha sonra Handsontabledaki afterChange, afterInsertRow, beforeRemoveRow gibi hooklar ile tablo üzerinden veritabanýnda anlýk olarak ekleme, silme ve güncelleme iþlevlerini kazandýrdým.

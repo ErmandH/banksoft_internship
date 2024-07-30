@@ -1,0 +1,1 @@
+ThreadPool uygulamalarýný araþtýrýp inceledim ve visual studio üzerinde uygulama yaptým. C de ODBC kütüphanesini kullanarak sql servera baðlandým.

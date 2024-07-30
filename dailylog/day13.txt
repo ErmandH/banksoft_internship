@@ -1,0 +1,1 @@
+Her 10 saniyede 1 bulunduðu klasördeki scrum excel dosyalarýný okuyup veritabanýndaki ehScrums tablosuna kaydeden konsol uygulamasý yazdým. Proje sýrasýnda C# dýþýnda, XML, App.config ve System.IO kütüphanesindeki dosya iþlemlerini de kullandým.

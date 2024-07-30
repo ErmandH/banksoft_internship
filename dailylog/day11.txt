@@ -1,0 +1,1 @@
+C'de winapi ile DLL oluþturup baþka bir projeye baðladým ve LoadLibrary kullanarak DLL'de oluþturduðum fonksiyonu kullandým

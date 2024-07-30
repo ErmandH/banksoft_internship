@@ -1,0 +1,1 @@
+Daha önce yaptýðým deðiþikliklerin üstüne ayný tarih için daha önce herhangi bir kayýt varsa o tarihteki tüm kayýtlarýn silinmesi ile alakalý algoritma oluþturdum programda. Bunu da tamamladýktan sonra test etmeye baþladým. Yaptýðým testler sonucunda çýkan hatalarý düzelttim gün boyu.

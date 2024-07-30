@@ -1,0 +1,1 @@
+Windows Form Uygulamasýný tamamladýktan sonra. Ayný uygulamayý ASP.NET Web Form üzerinde yapmaya baþladým. Projenin front-end kýsmý için bootstrap kütüphanesi kullandým. CRUD iþlemlerini tamamladýktan sonra Authentication katmanýný oluþturmak için araþtýrma yapmaya baþladým.

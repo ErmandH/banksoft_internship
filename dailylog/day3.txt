@@ -1,0 +1,1 @@
+Visual Basic üzerinde 4 adet form tasarladým ve oluþturduðum tablolar olan Randevu, Hasta ve Doktor tablolarý için 3 ayrý formda Ekleme, Silme, Güncelleme, Okuma iþlemlerini saðlayan butonlarý iþlevli hale getirerek günü tamamladým.

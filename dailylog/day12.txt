@@ -1,0 +1,2 @@
+Scrums dosyalarý için veritabanýnda tablo ehScrums adýnda tablo oluþturdum.
+Exceldeki dosyayý Windows Form uygulamasý üzerinden openFileDialog ile alýp içindeki tablolarý okuyup içindeki deðerlerler üzerinden ehScrums tablosuna aktaran Form uygulamasý yaptým.

@@ -1,0 +1,1 @@
+Þirket ile alakalý tanýtým,teknik bilgilerindirme, þirket içinde yazýlan uygulamalar hakkýnda teknik bilger ve tanýtým, programlama standartlarý ve hangi dillerin kullanýlacaðý ile alakalý dökümanlarý okudum. Döküman okumasýný tamamladýktan sonra Structured Query Language (SQL) dilini öðrenmeye baþladým.

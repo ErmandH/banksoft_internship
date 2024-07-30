@@ -1,0 +1,1 @@
+Scrums tablolarýnýn gözlemlenebilmesi için ASP.NET Web Forms üzerinden bir web sitesi projesi oluþturdum ve bu proje üzerinden veritabanýndaki ehScrums tablosundaki verileri alarak Handsontable isimli tablo kütüphanesine baðlayarak filtreleme ve sorgulama iþlevlerini saðlayan bir tablo yapýsý oluþturdum verilerin incelenebilmesi için

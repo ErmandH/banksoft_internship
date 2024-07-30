@@ -1,0 +1,5 @@
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumsApplication\ScrumsShared\bin\Debug\ScrumsShared.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumsApplication\ScrumsShared\bin\Debug\ScrumsShared.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumsApplication\ScrumsShared\obj\Debug\ScrumsShared.csprojResolveAssemblyReference.cache
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumsApplication\ScrumsShared\obj\Debug\ScrumsShared.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumsApplication\ScrumsShared\obj\Debug\ScrumsShared.pdb

@@ -1,0 +1,3 @@
+ehScrums tablosuna EkipKodu sütununu ekledim ve bunun yanýnda ehScrumsConfig adýnda excel dosyasýndaki sütunlarýn numarasýný tutacak olan tabloyu oluþturdum. Daha sonra excel tablosundaki verileri veritabanýna aktaran programda aþaðýdaki deðiþiklikleri yapmaya baþladým
+- Excel sheetleri sondan baþa okunacak
+- Excel dosyasýnýn ilk kelimesi ekip kodu olarak okunacak

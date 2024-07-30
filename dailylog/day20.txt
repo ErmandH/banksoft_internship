@@ -1,0 +1,3 @@
+SQL Scriptlerinin daha düzenli olmasý için tüm tablo oluþturma veya stored procedure oluþturma kodlarýný ayrý ayrý dosyalara yazýp klasörlere göre ayýrdým. Ayrýca stored procuedure isimlerini de uygun bir ön ek ile düzenledim. Daha sonra bellek kullanýmýný optimize etmek için her tablodaki veri tiplerine varchar(MAX) yerine varchar(20) gibi uygun bir karakter limiti ekledim. Bunlarý yaptýktan sonra tüm projelerde bu deðiþiklikleri uyguladým.
+
+-- Filtreleri vesaire day21 e ekle

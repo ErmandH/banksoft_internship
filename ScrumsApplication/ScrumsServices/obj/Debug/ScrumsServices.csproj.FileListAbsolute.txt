@@ -1,0 +1,7 @@
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumsApplication\ScrumsServices\bin\Debug\ScrumsServices.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumsApplication\ScrumsServices\bin\Debug\ScrumsServices.pdb
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumsApplication\ScrumsServices\obj\Debug\ScrumsServices.dll
+c:\users\stajyer\documents\visual studio 2012\Projects\ScrumsApplication\ScrumsServices\obj\Debug\ScrumsServices.pdb
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\ScrumsApplication\ScrumsServices\obj\Debug\ScrumsServices.csprojResolveAssemblyReference.cache
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\ScrumsApplication\ScrumsServices\bin\Debug\ScrumsShared.dll
+C:\Users\Stajyer\Documents\Visual Studio 2012\Projects\ScrumsApplication\ScrumsServices\bin\Debug\ScrumsShared.pdb

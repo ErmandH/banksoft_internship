@@ -1,0 +1,1 @@
+SQL dili hakkýnda pratik egzersizleri tamamladýktan sonra. Visual Basic uygulamasýnda Masaüstü Form Uygulamasý oluþturmaya baþladým. Uygulama için veritabanýnda 3 adet tablo oluþturan bir query yazdýktan sonra oluþturduðum veritabaný üzerinden Visual Basic üzerinde ADO baðlantýsýný yaptým.
