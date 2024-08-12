@@ -1,22 +1,22 @@
-if exists(select 1 from sys.procedures where name = 'sp_GetAllBanks')
-drop proc sp_GetAllScrums
+if exists(select 1 from sys.procedures where name = 'scsp_GetAllBanks')
+drop proc scsp_GetAllBanks
 go
 
-if exists(select 1 from sys.procedures where name = 'sp_InsertBank')
-drop proc sp_InsertScrum
+if exists(select 1 from sys.procedures where name = 'scsp_InsertBank')
+drop proc scsp_InsertBank
 go
 
-if exists(select 1 from sys.procedures where name = 'sp_UpdateBank')
-drop proc sp_UpdateScrum
+if exists(select 1 from sys.procedures where name = 'scsp_UpdateBank')
+drop proc scsp_UpdateBank
 go
 
-if exists(select 1 from sys.procedures where name = 'sp_DeleteBank')
-drop proc sp_DeleteScrum
+if exists(select 1 from sys.procedures where name = 'scsp_DeleteBank')
+drop proc scsp_DeleteBank
 go
 
 
 
-CREATE PROCEDURE sp_GetAllBanks
+CREATE PROCEDURE scsp_GetAllBanks
 AS
 BEGIN
     SELECT BankID, Code, Name
@@ -24,7 +24,7 @@ BEGIN
 END;
 GO
 
-CREATE PROCEDURE sp_InsertBank
+CREATE PROCEDURE scsp_InsertBank
     @Code NVARCHAR(MAX),
     @Name NVARCHAR(MAX)
 AS
@@ -36,7 +36,7 @@ BEGIN
 END;
 GO
 
-CREATE PROCEDURE sp_UpdateBank
+CREATE PROCEDURE scsp_UpdateBank
     @BankID INT,
     @Code NVARCHAR(MAX),
     @Name NVARCHAR(MAX)
@@ -48,7 +48,7 @@ BEGIN
 END;
 GO
 
-CREATE PROCEDURE sp_DeleteBank
+CREATE PROCEDURE scsp_DeleteBank
     @BankID INT
 AS
 BEGIN

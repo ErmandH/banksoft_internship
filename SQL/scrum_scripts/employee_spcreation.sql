@@ -1,22 +1,22 @@
-if exists(select 1 from sys.procedures where name = 'sp_GetAllEmployees')
-drop proc sp_GetAllScrums
+if exists(select 1 from sys.procedures where name = 'scsp_GetAllEmployees')
+	drop proc scsp_GetAllScrums
 go
 
 
-if exists(select 1 from sys.procedures where name = 'sp_InsertEmployee')
-drop proc sp_InsertScrum
+if exists(select 1 from sys.procedures where name = 'scsp_InsertEmployee')
+drop proc scsp_InsertScrum
 go
 
-if exists(select 1 from sys.procedures where name = 'sp_UpdateEmployee')
-drop proc sp_UpdateScrum
+if exists(select 1 from sys.procedures where name = 'scsp_UpdateEmployee')
+drop proc scsp_UpdateScrum
 go
 
-if exists(select 1 from sys.procedures where name = 'sp_DeleteEmployee')
-drop proc sp_DeleteScrum
+if exists(select 1 from sys.procedures where name = 'scsp_DeleteEmployee')
+drop proc scsp_DeleteScrum
 go
 
 
-CREATE PROCEDURE sp_GetAllEmployees
+CREATE PROCEDURE scsp_GetAllEmployees
 AS
 BEGIN
     SELECT EmployeeID, Code, Name, Surname
@@ -24,7 +24,7 @@ BEGIN
 END;
 GO
 
-CREATE PROCEDURE sp_InsertEmployee
+CREATE PROCEDURE scsp_InsertEmployee
     @Code NVARCHAR(MAX),
     @Name NVARCHAR(MAX),
     @Surname NVARCHAR(MAX)
@@ -38,7 +38,7 @@ END;
 GO
 
 
-CREATE PROCEDURE sp_UpdateEmployee
+CREATE PROCEDURE scsp_UpdateEmployee
     @EmployeeID INT,
     @Code NVARCHAR(MAX),
     @Name NVARCHAR(MAX),
@@ -51,7 +51,7 @@ BEGIN
 END;
 GO
 
-CREATE PROCEDURE sp_DeleteEmployee
+CREATE PROCEDURE scsp_DeleteEmployee
     @EmployeeID INT
 AS
 BEGIN

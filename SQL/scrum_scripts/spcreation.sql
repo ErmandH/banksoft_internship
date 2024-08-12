@@ -1,26 +1,26 @@
-if exists(select 1 from sys.procedures where name = 'sp_GetAllScrums')
-drop proc sp_GetAllScrums
+if exists(select 1 from sys.procedures where name = 'scsp_GetAllScrums')
+drop proc scsp_GetAllScrums
 go
 
-if exists(select 1 from sys.procedures where name = 'sp_GetScrumsByDate')
-drop proc sp_GetScrumsByDate
-go
-
-
-if exists(select 1 from sys.procedures where name = 'sp_InsertScrum')
-drop proc sp_InsertScrum
-go
-
-if exists(select 1 from sys.procedures where name = 'sp_UpdateScrum')
-drop proc sp_UpdateScrum
-go
-
-if exists(select 1 from sys.procedures where name = 'sp_DeleteScrum')
-drop proc sp_DeleteScrum
+if exists(select 1 from sys.procedures where name = 'scsp_GetScrumsByDate')
+drop proc scsp_GetScrumsByDate
 go
 
 
-CREATE PROCEDURE sp_GetAllScrums
+if exists(select 1 from sys.procedures where name = 'scsp_InsertScrum')
+drop proc scsp_InsertScrum
+go
+
+if exists(select 1 from sys.procedures where name = 'scsp_UpdateScrum')
+drop proc scsp_UpdateScrum
+go
+
+if exists(select 1 from sys.procedures where name = 'scsp_DeleteScrum')
+drop proc scsp_DeleteScrum
+go
+
+
+CREATE PROCEDURE scsp_GetAllScrums
 AS
 BEGIN
     SELECT *
@@ -28,7 +28,7 @@ BEGIN
 END
 GO
 
-CREATE PROCEDURE sp_GetScrumsByDate
+CREATE PROCEDURE scsp_GetScrumsByDate
     @TeamCode varchar(255),
 	@Date date
 AS
@@ -37,8 +37,8 @@ BEGIN
 END
 go
 
---- ehScrumsConfig
-CREATE PROCEDURE sp_InsertScrum
+
+CREATE PROCEDURE scsp_InsertScrum
 	@TeamCode varchar(255),
     @Filename varchar(MAX),
     @ScrumStartDate date,
@@ -60,7 +60,7 @@ END
 GO
 
 
-CREATE PROCEDURE sp_UpdateScrum
+CREATE PROCEDURE scsp_UpdateScrum
     @ScrumID int,
 	@TeamCode varchar(255),
     @Filename varchar(MAX),
@@ -86,7 +86,7 @@ END
 GO
 
 
-CREATE PROCEDURE sp_DeleteScrum
+CREATE PROCEDURE scsp_DeleteScrum
     @ScrumID int
 AS
 BEGIN
@@ -97,34 +97,34 @@ GO
 
 --- ehScrumsConfig
 
-if exists(select 1 from sys.procedures where name = 'sp_GetAllScrumConfigs')
-drop proc sp_GetAllScrumConfigs
+if exists(select 1 from sys.procedures where name = 'scsp_GetAllScrumConfigs')
+drop proc scsp_GetAllScrumConfigs
 go
 
-if exists(select 1 from sys.procedures where name = 'sp_InsertScrumConfig')
-drop proc sp_InsertScrumConfig
+if exists(select 1 from sys.procedures where name = 'scsp_InsertScrumConfig')
+drop proc scsp_InsertScrumConfig
 go
 
-if exists(select 1 from sys.procedures where name = 'sp_UpdateScrumConfig')
-drop proc sp_UpdateScrumConfig
+if exists(select 1 from sys.procedures where name = 'scsp_UpdateScrumConfig')
+drop proc scsp_UpdateScrumConfig
 go
 
-if exists(select 1 from sys.procedures where name = 'sp_DeleteScrumConfig')
-drop proc sp_DeleteScrumConfig
+if exists(select 1 from sys.procedures where name = 'scsp_DeleteScrumConfig')
+drop proc scsp_DeleteScrumConfig
 go
 
-if exists(select 1 from sys.procedures where name = 'sp_GetScrumConfigByTeam')
-drop proc sp_GetScrumConfigByTeam
+if exists(select 1 from sys.procedures where name = 'scsp_GetScrumConfigByTeam')
+drop proc scsp_GetScrumConfigByTeam
 go
 
-CREATE PROCEDURE sp_GetAllScrumConfigs
+CREATE PROCEDURE scsp_GetAllScrumConfigs
 AS
 BEGIN
     SELECT * FROM ehScrumConfigs;
 END
 go
 
-CREATE PROCEDURE sp_GetScrumConfigByTeam
+CREATE PROCEDURE scsp_GetScrumConfigByTeam
     @TeamCode varchar(255)
 AS
 BEGIN
@@ -132,7 +132,7 @@ BEGIN
 END
 go
 
-CREATE PROCEDURE sp_InsertScrumConfig
+CREATE PROCEDURE scsp_InsertScrumConfig
     @TeamCode VARCHAR(255),
     @WFNoColNo INT,
     @BankColNo INT,
@@ -152,7 +152,7 @@ END
 GO
 
 
-CREATE PROCEDURE sp_UpdateScrumConfig
+CREATE PROCEDURE scsp_UpdateScrumConfig
     @ScrumConfigID INT,
     @TeamCode VARCHAR(255),
     @WFNoColNo INT,
@@ -184,7 +184,7 @@ END
 GO
 
 
-CREATE PROCEDURE sp_DeleteScrumConfig
+CREATE PROCEDURE scsp_DeleteScrumConfig
     @ScrumConfigID int
 AS
 BEGIN
